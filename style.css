@@ -7,6 +7,9 @@ a:hover {
 .logoPart {
   text-align: center;
 }
+h2 {
+  width: fit-content;
+}
 .booksMargin {
   margin: 5px 5px 5px 5px;
 }
