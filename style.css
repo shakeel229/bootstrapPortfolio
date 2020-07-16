@@ -1,9 +1,9 @@
 ul li a {
   color: white !important;
 }
-a:hover {
+/* a:hover {
   color: brown !important;
-}
+} */
 .logoPart {
   text-align: center;
 }
@@ -13,25 +13,18 @@ h2 {
 .booksMargin {
   margin: 5px 5px 5px 5px;
 }
-.fa {
-  padding: 20px;
-  font-size: 30px;
-  width: 50px;
-  text-align: center;
-  text-decoration: none;
-  margin: 5px 2px;
-}
 
 .fa:hover {
   opacity: 0.7;
 }
 
-.fa-facebook {
-  background: #3b5998;
+.logodark {
   color: white;
+  margin-left: 0.8em;
 }
-
-.fa-twitter {
-  background: #55acee;
-  color: white;
+.logodark a:hover {
+  color: black;
+}
+.firstlink {
+  margin-left: 0em !important;
 }
