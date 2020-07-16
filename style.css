@@ -4,3 +4,6 @@ ul li a {
 a:hover {
   color: brown !important;
 }
+.logoPart {
+  text-align: center;
+}
