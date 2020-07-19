@@ -10,6 +10,9 @@ ul li a {
 h2 {
   width: fit-content;
 }
+.backBanner {
+  background-color: blueviolet !important;
+}
 .booksMargin {
   margin: 5px 5px 5px 5px;
 }
